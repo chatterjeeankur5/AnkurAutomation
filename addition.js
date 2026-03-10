@@ -1,7 +1,6 @@
-
-
-ankur();
-function ankur()
+function antara()
 {
-    console.log(10);
+    console.log("ankur is smart");
 }
+
+antara();
